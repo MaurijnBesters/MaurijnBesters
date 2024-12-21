@@ -4,7 +4,7 @@
 # This is dynamic in a monorepo
 bin/internal/engine.version
 
-project/*
+
 
 # Miscellaneous
 *.class
@@ -29,6 +29,7 @@ project/*
 .project
 .settings/
 .vscode/*
+
 
 # Flutter repo-specific
 /bin/cache/
